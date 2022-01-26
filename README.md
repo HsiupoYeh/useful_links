@@ -3,3 +3,7 @@
 + 線上MarkDown編輯器:
   + https://www.mdeditor.tw/
   + https://dillinger.io/
+
++ 蘭台資料:
+  + http://203.66.83.135/LT/
+  + http://geohazard-lab.ce.ncnu.edu.tw/lantai/
