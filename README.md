@@ -8,6 +8,6 @@
   + http://203.66.83.135/LT/
   + http://geohazard-lab.ce.ncnu.edu.tw/lantai/
 
-+ 工讀生:
-  + https://github.com/luoyan109
-  + https://github.com/Emilytear1205
++ ERT雲端工具(DEMO):
+  + https://211.21.102.67/
+
